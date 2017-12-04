@@ -1,0 +1,2 @@
+#GCC(GLOBAL COUNSELING SYSTEM)
+The system is focused on helping student to explore and define there academics, career and life goals and pathways and helps in  problem solving and decision making through suggestion and guidance.
